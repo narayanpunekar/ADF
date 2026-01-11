@@ -1,0 +1,9 @@
+{
+	"name": "BigDataSolutionsDataFactoryFlow",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8f8cdb1-f2f2-4e4e-817b-36305723cad2",
+		"tenantId": "e9cebafd-cc5e-442a-93e2-a36b24881ed1"
+	}
+}
